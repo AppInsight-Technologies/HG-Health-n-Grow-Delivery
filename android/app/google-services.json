@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "522079443485",
+    "project_id": "hg-store-9657e",
+    "storage_bucket": "hg-store-9657e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522079443485:android:850cbb42013773dfcf04f4",
+        "android_client_info": {
+          "package_name": "com.hg.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64aakqOIQyeSAvARUq4iICj2e5pg_OAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522079443485:android:4e8e3f6c0e7c5930cf04f4",
+        "android_client_info": {
+          "package_name": "com.hgdelivery.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64aakqOIQyeSAvARUq4iICj2e5pg_OAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
