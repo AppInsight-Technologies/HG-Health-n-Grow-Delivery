@@ -218,7 +218,7 @@ class _LoginWidgetState extends StateMVC<LoginWidget> {
                           },
                           decoration: InputDecoration(
                             labelText: S.of(context).phone,
-                            labelStyle: TextStyle(color: Theme.of(context).accentColor),
+                            labelStyle: TextStyle(color: Colors.black/*Theme.of(context).accentColor*/),
                             fillColor: Colors.black,
                             hoverColor: Colors.black,
                             contentPadding: EdgeInsets.all(5),
@@ -270,7 +270,7 @@ class _LoginWidgetState extends StateMVC<LoginWidget> {
                           obscureText: _con.hidePassword,
                           decoration: InputDecoration(
                             labelText: S.of(context).password,
-                            labelStyle: TextStyle(color: Theme.of(context).accentColor),
+                            labelStyle: TextStyle(color: Colors.black/*Theme.of(context).accentColor*/),
                             contentPadding: EdgeInsets.all(5),
                               hoverColor: Colors.black,
                             // hintText: '••••••••••••',

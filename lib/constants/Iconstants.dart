@@ -5,7 +5,7 @@ class IConstants
   static String API_PATH = "https://sandbox.grocbay.com/api/app-manager/get-functionality/";
   //static String API_PATH = "https://ssnadmin.srisrinaisargik.com/api/app-manager/get-functionality/";
 
-  static String APP_NAME = "HG Delivery";
+  static String APP_NAME = "HnGMart Delivery";
   static bool isOtp = false;
 
 }

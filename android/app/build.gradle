@@ -48,6 +48,7 @@ android {
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
+        multiDexEnabled = true
     }
     signingConfigs {
         release {
@@ -71,6 +72,8 @@ flutter {
 }
 
 dependencies {
+    implementation("androidx.multidex:multidex:2.0.1")//★This
+    implementation 'org.altbeacon:android-beacon-library:2.19'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation platform('com.google.firebase:firebase-bom:27.1.0')
     implementation 'com.google.firebase:firebase-analytics'
